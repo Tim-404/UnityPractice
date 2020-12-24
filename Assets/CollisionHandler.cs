@@ -9,3 +9,8 @@ class CollisionHandler : MonoBehaviour
             Destroy(o.gameObject);
     }
 }
+//graffiti comments
+//make more comments than actual code
+//its over tim
+//we have the majority now!!!
+//all your collision handler belong to us
