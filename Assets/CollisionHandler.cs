@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-
+//comment by brandon
 class CollisionHandler : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D o)
